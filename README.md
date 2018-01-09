@@ -1,8 +1,10 @@
-# CAHHome
+CAHHome
+=======
 
 My dotfiles and shell configuration.
 
-## Structure
+Structure
+---------
 
 ```
 ─ $HOME/
@@ -125,7 +127,8 @@ Important callouts:
 
 Contains specific overrides or configuration on a per-host basis.  Will not be part of any installation, but is referenced by other scripts.
 
-## Installation
+Installation
+------------
 
 The installation process is as follows:
 
@@ -133,7 +136,8 @@ The installation process is as follows:
 
 ### Generated files
 
-## Updates
+Updates
+-------
 
 The update process is as follows:
 
